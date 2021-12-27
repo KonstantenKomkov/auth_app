@@ -1,6 +1,6 @@
 # auth_app
 
-A new Flutter project.
+Auth Flutter project for API based on Django and Joser library.
 
 ## Getting Started
 
